@@ -1,2 +1,2 @@
-This is for test.
 This is a new line for test.
+Here is the line I added
