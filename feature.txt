@@ -1,2 +1,4 @@
-Here is my new Feature!
-Edited a line!
+
+Here is my second feature.txt file
+Better than first one!
+
