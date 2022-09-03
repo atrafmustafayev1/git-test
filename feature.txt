@@ -1,1 +1,2 @@
 Here is my new Feature!
+Edited a line!
